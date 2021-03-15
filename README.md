@@ -1,3 +1,3 @@
 # learning
 
-machine learning for begainner
+deep learning<machine learning<AI for begainner
