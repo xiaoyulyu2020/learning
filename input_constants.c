@@ -32,7 +32,7 @@ int main()
     scanf("%s", name);// don't need pointer
     printf("your name is %s", name);
 //Problem use scanf
-//try type Chris lyu, It only print Chris. So scanf only detect the letter before space.
+//try type Chris lyu, It only print Chris. So scanf only detect the letter before the first space.
     //Try
     printf("enter again: ");
     fgets(name, 20, stdin);
